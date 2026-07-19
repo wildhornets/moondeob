@@ -106,3 +106,13 @@ getfenv()
 ```
 
 returns `_G`, which contains all globals, including the `print` function. This might help when deobfuscating msec v3.
+
+result bytecode deobfuscated:
+
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/2.png)
+
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/1.png)
+
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/3.png)
+
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/4.png)
