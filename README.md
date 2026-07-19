@@ -116,3 +116,5 @@ result bytecode deobfuscated:
 ![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/3.png)
 
 ![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/4.png)
+
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/5.png)
