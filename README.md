@@ -80,7 +80,7 @@ end;
 
 string.dump = nil;
 ```
-
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/%7BC6ED2CA0-6224-40ED-B08C-7A723245B3F4%7D.png)
 Uses opcode and does something. For example, opcode `LOADK` is:
 
 ```lua
