@@ -4,7 +4,7 @@ no detailed explanation, find out how to do it by yourself
 ```lua
 _G.wait = function( time ) print( 'tamper bypass works :D', time ) end
 ```
-
+![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/%7BEAF93D06-8E45-4A0D-8BB6-9B8206EBC1B7%7D.png)
 ```lua
 local function serializeTable(tbl, indent, seen)
     indent = indent or 0
