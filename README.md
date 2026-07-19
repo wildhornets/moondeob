@@ -1,10 +1,11 @@
 <h3 align="center">no detailed explanation, find out how to do it by yourself</h3>
 
-
 ```lua
 _G.wait = function( time ) print( 'tamper bypass works :D', time ) end
 ```
 ![Alt text](https://raw.githubusercontent.com/wildhornets/moondeob/refs/heads/main/img/%7BEAF93D06-8E45-4A0D-8BB6-9B8206EBC1B7%7D.png)
+means it have anti-tamper mode, and thats how to bypass moonsec v3 anti-tamper
+
 ```lua
 local function serializeTable(tbl, indent, seen)
     indent = indent or 0
